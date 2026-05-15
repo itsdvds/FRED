@@ -1,0 +1,14 @@
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/bin/Debug/net10.0/Ejercicio2
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/bin/Debug/net10.0/Ejercicio2.deps.json
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/bin/Debug/net10.0/Ejercicio2.runtimeconfig.json
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/bin/Debug/net10.0/Ejercicio2.dll
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/bin/Debug/net10.0/Ejercicio2.pdb
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/Ejercicio2.AssemblyInfoInputs.cache
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/Ejercicio2.AssemblyInfo.cs
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/Ejercicio2.dll
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/refint/Ejercicio2.dll
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/Ejercicio2.pdb
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/Ejercicio2.genruntimeconfig.cache
+/Users/its.dvds/Desktop/Proyects/C#/Ejercicio2/obj/Debug/net10.0/ref/Ejercicio2.dll
